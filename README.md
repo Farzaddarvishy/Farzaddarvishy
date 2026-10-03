@@ -8,22 +8,22 @@
   <a href="https://www.linkedin.com/in/farzaddarvishy">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <img src="https://img.shields.io/badge/Focus-Enterprise_Architecture-blue?style=for-the-badge" alt="Focus"/>
-  <img src="https://komarev.com/ghpvc/?username=Farzaddarvishy&style=for-the-badge&label=PROFILE+VIEWS" alt="Views"/>
+  <img src="https://img.shields.io/badge/Focus-Enterprise_Architecture-0969da?style=for-the-badge" alt="Focus"/>
+  <img src="https://img.shields.io/badge/Security-First_Mindset-1f883d?style=for-the-badge" alt="Security First"/>
 </p>
 
 ---
 
 <div dir="ltr">
 
-### 🧭 About Me (English)
+### 🧭 About Me
 
 > Leading IT organizations through **digital transformation**, designing **resilient enterprise infrastructure**, and building **security-first cultures** — one architecture at a time.
 
-- 🏢 Directing IT strategy, enterprise architecture & operations.
-- 🌐 Core Competencies: **Network Infrastructure • Cyber Defense • GRC • Business Intelligence (BI)**.
-- 🧩 Bridging the strategic vision of leadership with hard technical execution.
-- ☕ Believer in silent architectures: The best engineered systems are invisible because they never fail.
+- 🏢 **Strategic Leadership:** IT Operations, Enterprise Architecture & Governance.
+- 🛡️ **Defensive & Core Focus:** Network Hardening, Cyber Defense Strategies, Perimeter Security & GRC.
+- 📊 **Data & Operations:** BI Architectures, Mission-Critical Systems Reliability & High Availability.
+- ☕ *Engineering Philosophy:* High-impact systems operate silently; real resilience is built into the architecture, not patched afterward.
 
 ### 🛠️ Strategic & Technical Domains
 
@@ -38,7 +38,7 @@
 ---
 
 <details>
-<summary>🇮🇷 <b>نمایش شناسنامه شغلی به زبان فارسی (کلیک کنید)</b></summary>
+<summary>🇮🇷 <b>نمایش شناسنامه حرفه‌ای به زبان فارسی (کلیک کنید)</b></summary>
 <br>
 
 <div dir="rtl" align="right">
